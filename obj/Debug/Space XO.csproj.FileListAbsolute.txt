@@ -1,0 +1,22 @@
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\bin\Debug\Space XO.exe.config
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\bin\Debug\Space XO.exe
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\bin\Debug\Space XO.pdb
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.csproj.AssemblyReference.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.csproj.SuggestedBindingRedirects.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space_XO.Properties.Resources.resources
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.csproj.GenerateResource.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.csproj.CoreCompileInputs.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.exe
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space XO.pdb
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\Space XO\obj\Debug\Space_XO.frmSpaceXO.resources
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\bin\Debug\Space XO.exe.config
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\bin\Debug\Space XO.exe
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\bin\Debug\Space XO.pdb
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.csproj.AssemblyReference.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.exe.config
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space_XO.frmSpaceXO.resources
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space_XO.Properties.Resources.resources
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.csproj.GenerateResource.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.csproj.CoreCompileInputs.cache
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.exe
+E:\Study\Programming\Programming With Abo Hadhood\Phase 2\C# Projects\My Apps\Space XO\obj\Debug\Space XO.pdb

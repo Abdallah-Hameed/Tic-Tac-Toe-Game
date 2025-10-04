@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e78cb303-9d58-45f6-8fbb-c96bd370ba63": {
+      "ProjectGuid": "e78cb303-9d58-45f6-8fbb-c96bd370ba63",
+      "DisplayName": "Space XO",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
